@@ -1,5 +1,6 @@
 package com.google.gwt.sample.stockwatcher.client;
 
+// These are the imported packages
 import com.google.gwt.core.client.EntryPoint; 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.rpc.AsyncCallback;
